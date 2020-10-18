@@ -1,0 +1,21 @@
+{
+  "classes" : ["Iris-setosa", "Iris-versicolor", "Iris-virginica"],
+  "features": [
+    {
+      "feature": "sepal_length",
+      "type": "continuous"
+    },
+    {
+      "feature": "sepal_width",
+      "type": "continuous"
+    },
+    {
+      "feature": "petal_length",
+      "type": "continuous"
+    },
+    {
+      "feature": "petal_width",
+      "type": "continuous"
+    }
+  ]
+}
